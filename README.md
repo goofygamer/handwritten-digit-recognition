@@ -7,7 +7,7 @@ This project attempts to recognize handwritten digits through neural network.
 
 ## Implementation
 1. Obtained a training dataset with over 70,000 handwritten digits alongside their actual value from [the MNIST database](https://en.wikipedia.org/wiki/MNIST_database).
-2. Divided the dataset into a 6:1 training:test ration.
+2. Divided the dataset into a 6:1 training : test ratio.
 3. Flattened the 28X28 image into 784 input nodes.
 4. Developed multiple processing layers using [PyTorch](https://pytorch.org/).
 5. Created an interactive, graphical frontend using [Streamlit](https://streamlit.io/).
